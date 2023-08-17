@@ -1,3 +1,4 @@
+theme: Slate
 # Roshan
 Data Science Portfolio
 
