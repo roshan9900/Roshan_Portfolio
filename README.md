@@ -24,3 +24,13 @@ Data Science Portfolio
 - Bridges financial literacy gap by combining theory with hands-on experience
 
 <img width="441" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261623951-3f9a7c08-fbf7-44a9-a6a9-7ff22dbea7e3.png">
+
+
+# Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
+
+- **Personalized Discovery:** Tailors game recommendations based on user preferences for efficient and enjoyable game discovery.
+- **Boosted Engagement:** Increases user interaction and retention through targeted game suggestions.
+- **Simplified Decision-Making:** Helps users overcome decision fatigue by presenting relevant game options.
+- **Reliable Recommendations:** Incorporates user validation for accurate and trustworthy suggestions.
+- **Anywhere Access:** Cloud hosting ensures easy, on-the-go access to recommendations, enhancing user convenience and satisfaction.
+<img width="441" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261802808-5c054193-a531-4571-8c1b-37fc150d4ecb.png">
