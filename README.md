@@ -33,4 +33,6 @@ Data Science Portfolio
 - **Simplified Decision-Making:** Helps users overcome decision fatigue by presenting relevant game options.
 - **Reliable Recommendations:** Incorporates user validation for accurate and trustworthy suggestions.
 - **Anywhere Access:** Cloud hosting ensures easy, on-the-go access to recommendations, enhancing user convenience and satisfaction.
+
+  
 <img width="441" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261802808-5c054193-a531-4571-8c1b-37fc150d4ecb.png">
