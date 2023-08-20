@@ -9,6 +9,7 @@ Data Science Portfolio
 
 <img width="441" alt="Screenshot 2023-08-17 191027" src="https://github.com/roshan9900/Roshan_Portfolio/assets/115538447/b728254a-4cb7-47a0-a6eb-ed79bd701f26">
 
+<----------------------------------------------------------------------------------------------------------------->
 
 # Project 2: Stock Price Prediction WebApp [Link](https://github.com/roshan9900/Collage_Project)
 - Innovative web app for stock market price prediction & virtual trading
@@ -24,6 +25,8 @@ Data Science Portfolio
 
 <img width="441" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261623951-3f9a7c08-fbf7-44a9-a6a9-7ff22dbea7e3.png">
 
+<----------------------------------------------------------------------------------------------------------------->
+
 
 # Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
 
@@ -35,3 +38,6 @@ Data Science Portfolio
 
   
 <img width="441" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261802808-5c054193-a531-4571-8c1b-37fc150d4ecb.png">
+
+<----------------------------------------------------------------------------------------------------------------->
+
