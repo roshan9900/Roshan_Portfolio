@@ -1,5 +1,7 @@
 Data Science Portfolio
 
+[Linkedin](https://www.linkedin.com/in/roshan-salunke-865425263/)  [GitHub Repo](https://github.com/roshan9900?tab=repositories)
+
 # Project 1: Customer Buying Behaviour Prediction [Link](https://github.com/roshan9900/British_Airways_Virtual_Pro)
 - Scraped and analyzed 2090 reviews using Beautiful Soup, conducting preprocessing, encoding, and visualization.
 - Applied Topic Modeling, Text Classification, and Named Entity Recognition methods, achieving a 92% accuracy with Random Forest. -Made a Power BI dashboard to present insights.
