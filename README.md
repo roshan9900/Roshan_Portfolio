@@ -1,4 +1,3 @@
-# Roshan
 Data Science Portfolio
 
 # Project 1: Customer Buying Behaviour Prediction [Link](https://github.com/roshan9900/British_Airways_Virtual_Pro)
