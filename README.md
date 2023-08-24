@@ -1,6 +1,6 @@
 Data Science Portfolio
 
-[Linkedin](https://www.linkedin.com/in/roshan-salunke-865425263/)        [Other Projects](https://github.com/roshan9900?tab=repositories)
+[Linkedin](https://www.linkedin.com/in/roshan-salunke-865425263/)        [Machine Learning Projects](https://github.com/roshan9900/Machine-Learning-Projects)    [Deep Learning Projects](https://github.com/roshan9900/Deep-Learning)
 
 # Project 1: Customer Buying Behaviour Prediction [Link](https://github.com/roshan9900/British_Airways_Virtual_Pro)
 - Scraped and analyzed 2090 reviews using Beautiful Soup, conducting preprocessing, encoding, and visualization.
