@@ -1,10 +1,10 @@
-## Data Science Portfolio
+# Data Science Portfolio
 
 - [Linkedin](https://www.linkedin.com/in/roshan-salunke-865425263/)        
 - [Machine Learning Projects](https://github.com/roshan9900/Machine-Learning-Projects)
 - [Deep Learning Projects](https://github.com/roshan9900/Deep-Learning)
 
-# Project 1: Customer Buying Behaviour Prediction [Link](https://github.com/roshan9900/British_Airways_Virtual_Pro)
+### Project 1: Customer Buying Behaviour Prediction [Link](https://github.com/roshan9900/British_Airways_Virtual_Pro)
 - Scraped and analyzed 2090 reviews using Beautiful Soup, conducting preprocessing, encoding, and visualization.
 - Applied Topic Modeling, Text Classification, and Named Entity Recognition methods, achieving a 92% accuracy with Random Forest. -Made a Power BI dashboard to present insights.
 - This will help the company focus on more important things to customers while buying tickets or using their services.
@@ -15,7 +15,7 @@
 
 
 
-# Project 2: Stock Price Prediction WebApp [Link](https://github.com/roshan9900/Collage_Project)
+### Project 2: Stock Price Prediction WebApp [Link](https://github.com/roshan9900/Collage_Project)
 - Innovative web app for stock market price prediction & virtual trading
 - Utilizes yfinance Python library for historical data retrieval
 - Deep learning LSTM model for predictive analysis of stock prices
@@ -31,7 +31,7 @@
 
 
 
-# Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
+### Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
 
 - **Personalized Discovery:** Tailors game recommendations based on user preferences for efficient and enjoyable game discovery.
 - **Boosted Engagement:** Increases user interaction and retention through targeted game suggestions.
