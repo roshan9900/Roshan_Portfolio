@@ -1,4 +1,3 @@
-# Data Science Portfolio
 
 - [Linkedin](https://www.linkedin.com/in/roshan-salunke-865425263/)        
 - [Machine Learning Projects](https://github.com/roshan9900/Machine-Learning-Projects)
