@@ -23,7 +23,26 @@
 
 
 
-### Project 2: Stock Price Prediction WebApp [Link](https://github.com/roshan9900/Collage_Project)
+### Project 2: Text Generation WebApp Using Deep Learning [Link](https://github.com/roshan9900/Deep-Learning/tree/main/text_generation)
+
+- Created a Text Generation Web App using Flask and Keras.
+- Enabled users to input a starting phrase and receive AI-generated text.
+- Demonstrated integration of AI and web development for an interactive experience.
+<img width="441" alt="Screenshot 2023-08-17 191027"  src="https://user-images.githubusercontent.com/115538447/264552296-9ade89cf-faa1-43df-8344-193f856f812d.png">
+
+
+### Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
+
+- **Personalized Discovery:** Tailors game recommendations based on user preferences for efficient and enjoyable game discovery.
+- **Boosted Engagement:** Increases user interaction and retention through targeted game suggestions.
+- **Simplified Decision-Making:** Helps users overcome decision fatigue by presenting relevant game options.
+- **Reliable Recommendations:** Incorporates user validation for accurate and trustworthy suggestions.
+- **Anywhere Access:** Cloud hosting ensures easy, on-the-go access to recommendations, enhancing user convenience and satisfaction.
+<img width="441" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261802808-5c054193-a531-4571-8c1b-37fc150d4ecb.png">
+
+  
+
+### Project 4: Stock Price Prediction WebApp [Link](https://github.com/roshan9900/Collage_Project)
 
 - **Innovative Stock Market App:** Created a web app for stock market price prediction and virtual trading.
 - **Data Retrieval with yfinance:** Utilized the yfinance Python library to fetch historical stock data.
@@ -40,20 +59,6 @@
 - **Confident Investor Transition:** Empowered users to progress from novices to knowledgeable investors.
 
 - **Financial Literacy Bridge:** Combined theory with hands-on experience, promoting financial literacy.
-
 <img width="441" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261623951-3f9a7c08-fbf7-44a9-a6a9-7ff22dbea7e3.png">
-
-
-
-### Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
-
-- **Personalized Discovery:** Tailors game recommendations based on user preferences for efficient and enjoyable game discovery.
-- **Boosted Engagement:** Increases user interaction and retention through targeted game suggestions.
-- **Simplified Decision-Making:** Helps users overcome decision fatigue by presenting relevant game options.
-- **Reliable Recommendations:** Incorporates user validation for accurate and trustworthy suggestions.
-- **Anywhere Access:** Cloud hosting ensures easy, on-the-go access to recommendations, enhancing user convenience and satisfaction.
-
-  
-<img width="441" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261802808-5c054193-a531-4571-8c1b-37fc150d4ecb.png">
 
 
