@@ -8,6 +8,7 @@
 - Analyzed 50,000 data samples to uncover key factors influencing flight booking decisions.
 - Employed data preprocessing and machine learning techniques to predict bookings and achieved a high 92% prediction accuracy using the Random Forest algorithm.
 - Demonstrated the valuable role of data analysis in identifying critical features that impact customer choices across industries.
+- Made a Power BI dashboard to present insights. 
 
 ### Features That Affect Flight Bookings
 
@@ -30,6 +31,7 @@
 - **Simplified Decision-Making:** Helps users overcome decision fatigue by presenting relevant game options.
 - **Reliable Recommendations:** Incorporates user validation for accurate and trustworthy suggestions.
 - **Anywhere Access:** Cloud hosting ensures easy, on-the-go access to recommendations, enhancing user convenience and satisfaction.
+  
 <img width="300" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261802808-5c054193-a531-4571-8c1b-37fc150d4ecb.png">
 
   
