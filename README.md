@@ -2,6 +2,7 @@
 - [Linkedin](https://www.linkedin.com/in/roshan-salunke-865425263/)        
 - [Machine Learning Projects](https://github.com/roshan9900/Machine-Learning-Projects)
 - [Deep Learning Projects](https://github.com/roshan9900/Deep-Learning)
+- [Kaggle Profile](https://www.kaggle.com/roshansalunke)
 
 # Project 1: Understanding the Variables that Shape Flight Booking Choices [Link](https://github.com/roshan9900/British_Airways_Virtual_Pro)
 
