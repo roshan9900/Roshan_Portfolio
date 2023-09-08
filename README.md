@@ -22,7 +22,8 @@
 - Created a Text Generation Web App using Flask and Keras.
 - Enabled users to input a starting phrase and receive AI-generated text.
 - Demonstrated integration of AI and web development for an interactive experience.
-<img width="300" alt="Screenshot 2023-08-17 191027"  src="https://user-images.githubusercontent.com/115538447/264552296-9ade89cf-faa1-43df-8344-193f856f812d.png">
+  
+<img width="300" alt="image" src="https://github.com/roshan9900/Roshan_Portfolio/assets/115538447/0e1b26bf-a77b-44de-b5a9-561f1fe37f32">
 
 
 # Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
