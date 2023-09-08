@@ -3,7 +3,7 @@
 - [Machine Learning Projects](https://github.com/roshan9900/Machine-Learning-Projects)
 - [Deep Learning Projects](https://github.com/roshan9900/Deep-Learning)
 
-### Project 1: Understanding the Variables that Shape Flight Booking Choices [Link](https://github.com/roshan9900/British_Airways_Virtual_Pro)
+# Project 1: Understanding the Variables that Shape Flight Booking Choices [Link](https://github.com/roshan9900/British_Airways_Virtual_Pro)
 
 - Analyzed 50,000 data samples to uncover key factors influencing flight booking decisions.
 - Employed data preprocessing and machine learning techniques to predict bookings and achieved a high 92% prediction accuracy using the Random Forest algorithm.
@@ -15,7 +15,7 @@
 
 
 
-### Project 2: Text Generation WebApp Using Deep Learning [Link](https://github.com/roshan9900/Deep-Learning/tree/main/text_generation)
+# Project 2: Text Generation WebApp Using Deep Learning [Link](https://github.com/roshan9900/Deep-Learning/tree/main/text_generation)
 
 - Created a Text Generation Web App using Flask and Keras.
 - Enabled users to input a starting phrase and receive AI-generated text.
@@ -23,7 +23,7 @@
 <img width="300" alt="Screenshot 2023-08-17 191027"  src="https://user-images.githubusercontent.com/115538447/264552296-9ade89cf-faa1-43df-8344-193f856f812d.png">
 
 
-### Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
+# Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
 
 - **Personalized Discovery:** Tailors game recommendations based on user preferences for efficient and enjoyable game discovery.
 - **Boosted Engagement:** Increases user interaction and retention through targeted game suggestions.
