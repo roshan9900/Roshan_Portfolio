@@ -16,8 +16,17 @@
 <img width="300" alt="Screenshot 2023-08-17 191027" src="https://github.com/roshan9900/Roshan_Portfolio/assets/115538447/b728254a-4cb7-47a0-a6eb-ed79bd701f26">
 
 
+# Project 2: BERT-Powered Disaster Tweet Classifier [Link](https://github.com/roshan9900/Deep-Learning/tree/main/Disaster_tweets)
+  - Utilized BERT for state-of-the-art text classification.
+  - Achieved top 25% ranking on Kaggle.
+  - Overall accuracy: 85%.
+  - Robust data preprocessing and class imbalance handling.
+  - Impactful application in disaster monitoring and response.
+  
+### Model Architecture 
+<img width="300" alt="Screenshot 2023-08-17 191027" src="https://github.com/roshan9900/Roshan_Portfolio/assets/115538447/cb419bc8-02d8-4012-bf0e-16203e815f44">
 
-# Project 2: Text Generation WebApp Using Deep Learning [Link](https://github.com/roshan9900/Deep-Learning/tree/main/text_generation)
+# Project 3: Text Generation WebApp Using Deep Learning [Link](https://github.com/roshan9900/Deep-Learning/tree/main/text_generation)
 
 - Created a Text Generation Web App using Flask and Keras.
 - Enabled users to input a starting phrase and receive AI-generated text.
@@ -26,7 +35,7 @@
 <img width="300" alt="image" src="https://github.com/roshan9900/Roshan_Portfolio/assets/115538447/0e1b26bf-a77b-44de-b5a9-561f1fe37f32">
 
 
-# Project 3: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
+# Project 4: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
 
 - **Personalized Discovery:** Tailors game recommendations based on user preferences for efficient and enjoyable game discovery.
 - **Boosted Engagement:** Increases user interaction and retention through targeted game suggestions.
