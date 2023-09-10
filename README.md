@@ -36,12 +36,9 @@
 
 
 # Project 4: Game Recommendation System [Link](https://github.com/roshan9900/Machine-Learning-Projects/tree/main/Steam_video_Reco)
-
-- **Personalized Discovery:** Tailors game recommendations based on user preferences for efficient and enjoyable game discovery.
-- **Boosted Engagement:** Increases user interaction and retention through targeted game suggestions.
-- **Simplified Decision-Making:** Helps users overcome decision fatigue by presenting relevant game options.
-- **Reliable Recommendations:** Incorporates user validation for accurate and trustworthy suggestions.
-- **Anywhere Access:** Cloud hosting ensures easy, on-the-go access to recommendations, enhancing user convenience and satisfaction.
+- Used Flask, Pandas, scikit-learn libraries to make a web application and hosted on the Google Cloud Platform.
+- The dataset has over 200k rows and columns containing information about users.
+- Converted playing hours into ratings to quantify user preferences and enhance accuracy.
   
 <img width="300" alt="Screenshot 2023-08-17 191027" src="https://user-images.githubusercontent.com/115538447/261802808-5c054193-a531-4571-8c1b-37fc150d4ecb.png">
 
