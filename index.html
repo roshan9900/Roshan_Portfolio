@@ -23,10 +23,19 @@
     <!-- Custom CSS for responsiveness -->
     <style>
         /* Custom styles for better responsiveness */
+        html, body {
+            height: auto;
+            overflow-y: auto;
+        }
+
+        .hero {
+            height: auto;
+            padding: 100px 0;
+        }
+
         @media (max-width: 768px) {
             .hero {
-                height: auto;
-                padding: 100px 0;
+                padding: 50px 0;
             }
 
             .slider-text h1 {
